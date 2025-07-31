@@ -1,0 +1,1 @@
+2025/07/31 09:44:12 [warn] 245#245: *292 using uninitialized "server" variable while logging request, client: 84.239.27.23, server: neu.lpgkornau.com, request: "GET / HTTP/1.1", host: "neu.lpgkornau.com:443"

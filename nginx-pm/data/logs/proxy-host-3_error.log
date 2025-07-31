@@ -1,0 +1,1 @@
+2025/07/31 12:11:17 [warn] 244#244: *6472 using uninitialized "server" variable while logging request, client: 104.28.210.70, server: sirenthesiren.xyz, request: "GET / HTTP/1.1", host: "sirenthesiren.xyz"
